@@ -5,7 +5,6 @@ app = Flask("Exercise 3")
 
 @app.route("/")
 def index():
-    # jinja
     return render_template(
         "home.html"
     )
