@@ -1,25 +1,6 @@
-# Session 1
+# Web Programming with Python
 
-Open Terminal.app (on Mac), or Git Bash on Windows.
+## How to use this repo?
 
-## Clone this repository
-
-```
-$ git clone https://github.com/mcsbt-app-2022/session-1
-```
-
-## Install required dependencies (on Mac)
-
-```
-$ python -m venv venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-```
-
-## Install required dependencies (on Windows)
-
-```
-$ python -m venv venv
-$ Scripts/activate.bat
-$ pip install -r requirements.txt
-```
+- [Fork it](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- `git clone` your fork!
